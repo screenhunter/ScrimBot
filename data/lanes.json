@@ -1,0 +1,18 @@
+{
+    "list": [
+        {
+            "user": {
+                "id": "127585294433124353",
+                "username": "screenhunter",
+                "discriminator": "7222",
+                "avatar": "cb9ffe9c2e7fe730bc2837ea58d6f626",
+                "bot": false,
+                "lastMessageID": "267532502703407124"
+            },
+            "lanes": [
+                "top",
+                "mid"
+            ]
+        }
+    ]
+}
